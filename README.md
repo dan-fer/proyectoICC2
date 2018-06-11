@@ -1,4 +1,6 @@
 # proyectoICC2
 
-def pene erecto(nota de mate):
+def pene erecto(nota de mate): 
+    print("Conchatumare")
+    
     
